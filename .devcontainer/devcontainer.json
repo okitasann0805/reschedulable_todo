@@ -1,0 +1,9 @@
+{
+	"name": "Ubuntu",
+	"build": {
+		"dockerfile": "Containerfile"
+	},
+	"features": {
+		"ghcr.io/devcontainers/features/github-cli": {}
+	}
+}
